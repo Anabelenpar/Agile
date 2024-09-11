@@ -1,0 +1,7 @@
+* f723668 (HEAD -> master, origin/master) Ejecuto find * y redirijo su salida a un nuevo archivo
+* 3f87bb3 Copio archivo del apartado 7 del ejercicio1
+* 961d62f (origin/rama1, rama1) Copio tercero.txt en cuarto.txt
+* 98fd11b Modifico tercero.txt
+* b056d50 (origin/main) Creo rama1 y añado archivo tercero.txt
+* 6c4b167 Copio la carpeta folder1 y añado archivo vacío
+* ae0b743 Añado archivos primero.txt y segundo.txt a curso
